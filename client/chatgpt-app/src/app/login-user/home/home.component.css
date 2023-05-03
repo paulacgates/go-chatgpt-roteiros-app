@@ -1,0 +1,29 @@
+header {
+    background-color: #a04524;
+  }
+  header li a {
+    color: aliceblue;
+  }
+  .form-control:focus {
+    border-color: #a04524;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+  }
+  td.active {
+    background-color: #d35629 !important;
+    border-color: #d35629;
+  }
+  
+  a.active.nav-link {
+    background-color: #d35629 !important;
+    border-color: #d35629;
+    border-radius: 20px;
+  }
+  
+  .nav a:hover {
+    background-color: #d35629;
+    border-radius: 20px;
+  }
+  
+  .nav a {
+    border-radius: 20px;
+  }

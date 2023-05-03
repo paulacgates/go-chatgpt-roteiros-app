@@ -1,0 +1,56 @@
+
+.btn-submit-login{
+  background-color: #c25229;
+  width: 13rem;
+  color:#ffffff;
+  border-color: #c25229;
+
+}
+.btn-submit-login:hover{
+  background-color: #e97b53;
+  width: 13rem;
+  color:#ffffff;
+  border-color: #c25229;
+}
+
+.section-app{
+  background-color: #c25229;
+}
+.title-roteiros {
+  display: flex;
+  color: #c25229;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica,
+    Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 4rem;
+  text-shadow: 0px 2px 2px rgba(241, 100, 43, 0.8);
+  padding-bottom: 2rem;
+  animation: title-roteiros 2s ease 0s 1 normal forwards;
+}
+
+@keyframes title-roteiros {
+  0%,
+  100% {
+    transform: translateX(0%);
+    transform-origin: 50% 50%;
+  }
+
+  15% {
+    transform: translateX(-30px) rotate(-6deg);
+  }
+
+  30% {
+    transform: translateX(15px) rotate(6deg);
+  }
+
+  45% {
+    transform: translateX(-15px) rotate(-3.6deg);
+  }
+
+  60% {
+    transform: translateX(9px) rotate(2.4deg);
+  }
+
+  75% {
+    transform: translateX(-6px) rotate(-1.2deg);
+  }
+}

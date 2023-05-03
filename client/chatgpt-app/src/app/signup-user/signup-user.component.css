@@ -1,0 +1,22 @@
+.btn-register:hover{
+  background-color: #e97b53;
+  color:#ffffff;
+  border-color: #e97b53;
+}
+
+#form2Example3c:active{
+  background-color:#c25229;
+  color:#c25229;
+}
+.form-check-input:checked{
+  background-color:#c25229;
+  border-color: #e97b53;
+}
+.btn-register{
+  background-color: c25229;
+  border-color: #c25229;
+}
+
+.img-fluid{
+  padding-bottom: 8rem;
+}
