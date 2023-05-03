@@ -2,7 +2,10 @@
 Criação de roteiros utilizando a GPT free.
 
 Para conseguir utilizar, pegue sua própria API key no openai para utilizar a chatgpt e seu próprio banco de dados para salvar os dados.
-Essa aplicação é apenas para uso recreativo e estudo da linguagem GO.
+Essa aplicação é apenas para uso recreativo e estudo da linguagem GO
+
+
+Próximos passos: Autenticação Auth0
 
 ![image](https://user-images.githubusercontent.com/49040288/235929871-c221dc0e-d6fd-40e6-9c59-6d326eaa49ce.png)
 ![image](https://user-images.githubusercontent.com/49040288/235930024-50c128b4-d015-4e37-a3ea-98b9f31a5039.png)
