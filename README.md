@@ -1,4 +1,4 @@
-# go-chatgpt-roteiros-app
+# Roteiros GPT 
 Criação de roteiros utilizando a GPT free.
 
 Para conseguir utilizar, pegue sua própria API key no openai para utilizar a chatgpt e seu próprio banco de dados para salvar os dados.
